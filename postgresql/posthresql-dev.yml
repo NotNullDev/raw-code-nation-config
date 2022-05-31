@@ -1,0 +1,4 @@
+db:
+  credentials:
+    username: postgres
+    password: postgres
