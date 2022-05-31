@@ -1,4 +1,4 @@
 db:
   credentials:
-    username: postgres-dev
+    username: postgres-test
     password: postgres
