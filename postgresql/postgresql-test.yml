@@ -1,4 +1,0 @@
-db:
-  credentials:
-    username: postgres-test
-    password: postgres

@@ -1,0 +1,8 @@
+server:
+  port: 9000
+
+random:
+  config:
+    but: |
+      very usefull anyway
+      don't you think?
